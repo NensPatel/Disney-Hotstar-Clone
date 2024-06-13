@@ -1,6 +1,6 @@
 # Live Demo Link
 
-disney-hotstar-clone-ruby.vercel.app
+https://disney-hotstar-clone-ruby.vercel.app
 
 # React + Vite
 
